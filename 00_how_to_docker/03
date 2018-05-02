@@ -1,0 +1,1 @@
+lancer la commande `docker-machine env --shell=bash Char` et recuperer l'output a 42
